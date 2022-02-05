@@ -1,0 +1,75 @@
+body{ 
+    background-color: black; opacity: 100%;
+    padding-left: .5cm;
+    color: aqua; 
+    font-family: serif;
+    text-align: center;
+    font-size: 50px;
+    color: rgb(255, 0, 106);
+}
+h4{
+    text-align: center;
+    color: aliceblue;
+    font-size: 50px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    text-transform: lowercase;
+    text-indent: 30cm;
+
+
+}
+h2{
+    text-align: center;
+    color: aliceblue;
+    font-family: sans-serif;
+    font-size: var();
+    text-decoration: none;
+}
+
+h3{
+    text-align: center;
+    color:aliceblue;
+    font-family: sans-serif;
+}
+#div2{
+  
+}
+#jeannineglitch{
+    width:300px;
+}
+
+#momaposter{
+    width: 300px;
+}
+#holiday{
+    width:300px;
+}
+#dracula{
+    width: 300px;
+}
+
+#magazine{
+    width: 300px;
+}
+
+#glitch2{
+    width: 300px;
+
+}
+#glitch3{
+    width: 300px;
+}
+
+#immortal{
+    width: 300px;
+}
+
+#dragrace{
+    width: 300px;
+}
+
+
+img {
+  border-radius: 8px;
+}
+
+

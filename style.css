@@ -7,14 +7,6 @@ body{
     font-size: 50px;
     color: rgb(255, 0, 106);
 }
-h4{
-    text-align: center;
-    color: aliceblue;
-    font-size: 50px;
-    font-family:Verdana, Geneva, Tahoma, sans-serif;
-    text-transform: lowercase;
-    text-indent: 30cm;
-
 
 }
 h2{
@@ -29,6 +21,13 @@ h3{
     text-align: center;
     color:aliceblue;
     font-family: sans-serif;
+}
+
+h5{
+    text-align: center;
+    font-family: sans-serif;
+    color: aliceblue;
+    font-size: medium;
 }
 #div2{
   
